@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ramblingwood.minecraft.jsonapi:JSONAPI:bleeding">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ramblingwood/minecraft/jsonapi/JSONAPI/bleeding/JSONAPI-bleeding.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ramblingwood/minecraft/jsonapi/JSONAPI/bleeding/JSONAPI-bleeding-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ramblingwood/minecraft/jsonapi/JSONAPI/bleeding/JSONAPI-bleeding-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
