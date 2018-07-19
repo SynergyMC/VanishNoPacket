@@ -245,3 +245,4 @@ permissions:
       vanish.effects.flames: true
       vanish.effects.bats: true
       vanish.effects.toggle.all: true
+api-version: 1.13
